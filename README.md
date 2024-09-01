@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meznahaldossari&label=Profile%20views&color=0e75b6&style=flat" alt="meznahaldossari" /> </p>
 
-- 🌱 I’m currently learning **about all aspects of web developmentnt**
+- 🌱 I’m currently learning **about all aspects of web development**
 
 - 📫 How to reach me **MeznahAldossari@hotmail.com**
 
